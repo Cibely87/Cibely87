@@ -1,4 +1,4 @@
-### Olááá, eu sou a Cibely! 👋
+### Ola, eu sou a Cibely! 👋
 - 🔭 Hoje trabalho spike | front-end | back-end | JavaScript | NodeJS | ReactUS | StoryBook | GitHub
 - 🌱 Estudando sobre front-end | back-end | JavaScript | NodeJS | ReactUS | StoryBook
 - 😄 Pronome: ela/dela
