@@ -1,8 +1,7 @@
 ### Ola, eu sou a Cibely! 👋
 - 🔭 Hoje trabalho spike | front-end | back-end | JavaScript | NodeJS | ReactUS | StoryBook | GitHub
-- 🌱 Estudando sobre front-end | back-end | JavaScript | NodeJS | ReactUS | StoryBook | UX | Metodologias Ágeis
+- 🌱 Estudando sobre front-end | back-end | JavaScript | NodeJS | ReactUS | StoryBook | UX | Metodologias Ágeis | QA
 - 😄 Pronome: ela/dela
-- ⚡ Curiosidade: estou em transição de carreira e MUITO animada com os novos caminhos sendo trilhados
 
 <div align="center">
   <a href="https://github.com/Cibely87">
