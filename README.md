@@ -19,5 +19,5 @@
 ##
    
 <div> 
-  <a href="https://www.linkedin.com/in/cibely-pereira-583517211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/cibely-pereira-%F0%9F%8F%B3%EF%B8%8F%E2%80%8D%F0%9F%8C%88-583517211/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:cibely.port@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
