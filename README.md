@@ -7,10 +7,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cibely87&layout=compact&hide_border=true&title_color=00FFFF&text_color=00FFFF&bg_color=0d1117" />
 </div>
 
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=cibely87&bg_color=0d1117&color=00FFFF&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cibely87&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
