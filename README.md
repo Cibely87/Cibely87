@@ -21,5 +21,3 @@
 ![HTML5](https://img.shields.io/badge/-html5-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![typescript](https://img.shields.io/badge/-typescript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cibely87&bg_color=b4d7f9&color=2085b1&line=06a1ac&point=224159&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
